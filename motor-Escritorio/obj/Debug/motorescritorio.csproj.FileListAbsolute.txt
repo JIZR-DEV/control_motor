@@ -1,0 +1,10 @@
+C:\Users\jizr1\source\repos\motorescritorio\obj\Debug\motorescritorio.csproj.AssemblyReference.cache
+C:\Users\jizr1\source\repos\motorescritorio\obj\Debug\motorescritorio.Properties.Resources.resources
+C:\Users\jizr1\source\repos\motorescritorio\obj\Debug\motorescritorio.csproj.GenerateResource.cache
+C:\Users\jizr1\source\repos\motorescritorio\obj\Debug\motorescritorio.csproj.CoreCompileInputs.cache
+C:\Users\jizr1\source\repos\motorescritorio\bin\Debug\motorescritorio.exe.config
+C:\Users\jizr1\source\repos\motorescritorio\bin\Debug\motorescritorio.exe
+C:\Users\jizr1\source\repos\motorescritorio\bin\Debug\motorescritorio.pdb
+C:\Users\jizr1\source\repos\motorescritorio\obj\Debug\motorescritorio.exe
+C:\Users\jizr1\source\repos\motorescritorio\obj\Debug\motorescritorio.pdb
+C:\Users\jizr1\source\repos\motorescritorio\obj\Debug\controlEscritorio.Form1.resources
