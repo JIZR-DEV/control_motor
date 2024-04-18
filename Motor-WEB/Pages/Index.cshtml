@@ -1,0 +1,28 @@
+﻿@page
+@model IndexModel
+
+<h1>Control del motor</h1>
+
+<div>
+    <h2>@Model.Estado</h2>
+    <img src="@Url.Content(Model.ImagenUrl)" alt="Estado del Motor" />
+    <button onclick="location.href='?handler=Izquierda'">
+        <img src="@Url.Content("/flecha-izquierda.png")" alt="Girar a la izquierda" />
+    </button>
+    <button onclick="location.href='?handler=Detener'">
+        <img src="@Url.Content("/pausa.png")" alt="Detener" />
+    </button>
+    <button onclick="location.href='?handler=Derecha'">
+        <img src="@Url.Content("/flecha-correcta.png")" alt="Girar a la derecha" />
+    </button>
+</div>
+
+<script>
+    function updateDateTime() {
+        const now = new Date();
+        document.getElementById('time').innerText = now.toLocaleString();
+    }
+    setInterval(updateDateTime, 1000);
+    updateDateTime(); // Inicializa la función inmediatamente al cargar la página.
+</script>
+<p id="time"></p>
