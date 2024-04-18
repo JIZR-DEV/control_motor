@@ -1,0 +1,3 @@
+Clonar repositorio
+Tener instalado el visual studio para ejecutar todo lo relacionado con c#
+abrir el archivo .exe de esta carpeta 
