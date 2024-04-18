@@ -1,1 +1,1 @@
-tener visual studio.........abrir el ejecutable.exe en la carpeta debug 
+tener visual studio.........abrir el ejecutable.exe en la bin/Debug/net8.0
