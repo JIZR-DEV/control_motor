@@ -1,0 +1,25 @@
+Paso 1: Asegúrate de tener todo listo
+Visual Studio: Asegúrate de tener Visual Studio instalado con el paquete de ASP.NET y desarrollo web. Si no lo tienes, puedes descargarlo desde el sitio oficial de Visual Studio.
+.NET SDK: Asegúrate de tener el SDK de .NET adecuado instalado para la versión de tu proyecto. Puedes verificarlo ejecutando dotnet --version en una terminal o CMD.
+
+Paso 2: Abrir el proyecto
+Abrir Visual Studio y selecciona 'Abrir un proyecto o una solución'.
+Navega hasta la ubicación de tu proyecto y selecciona el archivo de solución (.sln).
+
+Paso 3: Construir el proyecto
+Una vez abierto el proyecto, constrúyelo para asegurarte de que todas las dependencias estén correctamente instaladas y no haya errores de compilación.
+Puedes construir el proyecto usando el menú Compilar > Compilar solución o simplemente presiona Ctrl + Shift + B.
+
+Paso 4: Ejecutar el proyecto
+Ejecutar la aplicación:
+Puedes ejecutar la aplicación presionando F5 o haciendo clic en el botón de ejecutar (el triángulo verde) en la barra de herramientas de Visual Studio. Esto iniciará el servidor Kestrel y abrirá la aplicación en tu navegador predeterminado.
+Alternativamente, puedes ejecutar el proyecto desde una terminal navegando al directorio del proyecto y ejecutando el comando dotnet run.
+
+Paso 5: Navegar en la Aplicación
+Usa la aplicación:
+Una vez que la aplicación esté corriendo, deberías poder interactuar con ella a través de tu navegador. Puedes probar los botones para cambiar el estado del motor y ver cómo las imágenes GIF cambian en respuesta a tus acciones.
+Observa la fecha y hora actualizada en tiempo real en la página.
+
+Paso 6: Detener la Aplicación
+Cuando termines de probar, puedes detener la aplicación cerrando la ventana del navegador y deteniendo el servidor en Visual Studio o terminando el proceso en la terminal con Ctrl + C.
+
